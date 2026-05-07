@@ -1,4 +1,4 @@
-<h1>🚀 How <code>Pick</code> and <code>Omit</code> Help Me Avoid Code Duplication in TypeScript</h1>
+<h1>2.🚀 How <code>Pick</code> and <code>Omit</code> Help Me Avoid Code Duplication in TypeScript</h1>
 
 <h2>📖 Introduction</h2>
 <p>

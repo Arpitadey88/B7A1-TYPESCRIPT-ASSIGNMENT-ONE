@@ -1,4 +1,4 @@
-<h1>🚀 How Generics Help Me Build Reusable and Strictly Typed Code in TypeScript</h1>
+<h1>3.🚀 How Generics Help Me Build Reusable and Strictly Typed Code in TypeScript</h1>
 
 <h2>📖 Introduction</h2>
 <p>While learning TypeScript, I noticed that many functions and components repeat the same logic but work with different types of data. Writing separate functions for each type (like string, number, or object) makes the code repetitive and harder to maintain.</p>
