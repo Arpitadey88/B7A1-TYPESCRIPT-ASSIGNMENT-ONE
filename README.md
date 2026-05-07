@@ -1,5 +1,4 @@
-# B7A1-TYPESCRIPT-ASSIGNMENT-ONE
-# 🚀Assignment: Advanced Problem Solving with TypeScript & OOP
+# Assignment: Advanced Problem Solving with TypeScript & OOP
 
 ## 📁 Project Overview
 
